@@ -72,7 +72,7 @@ def q_learning(env,
 <IMG SRC="https://github.com/user-attachments/assets/4d63dd11-b574-4148-bd95-75301a6e0153" WIDTH=50%>
 
 ### State value functions of Q-Learning method:
-<IMG SRC="https://github.com/user-attachments/assets/a8e89d3d-1609-4bb7-b1ee-20212285f704" WIDTH=50%>
+<IMG SRC="https://github.com/user-attachments/assets/0589666b-9bab-41cf-b7b2-20c156805811" WIDTH=50%>
 
 ## RESULT:
 
